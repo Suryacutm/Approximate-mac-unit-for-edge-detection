@@ -1,0 +1,6426 @@
+(DELAYFILE
+  (SDFVERSION  "OVI 3.0")
+  (DESIGN      "hybrid_mac")
+  (DATE        "Wed Dec 04 18:37:33 +0600 2024")
+  (VENDOR      "Cadence, Inc.")
+  (PROGRAM     "Encounter(R) RTL Compiler")
+  (VERSION     "v12.10-s012_1")
+  (DIVIDER     .)
+  (VOLTAGE     ::0.9)
+  (PROCESS     "::1.0")
+  (TEMPERATURE ::125.0)
+  (TIMESCALE   1ns)
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g968)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.105) (::0.087))
+          (IOPATH B0 Y (::0.058) (::0.058))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g969)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.109) (::0.111))
+          (IOPATH B0 Y (::0.086) (::0.073))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g970)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.125) (::0.095))
+          (IOPATH B0 Y (::0.079) (::0.073))
+          (IOPATH A1 Y (::0.128) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g971)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.126) (::0.092))
+          (IOPATH B0 Y (::0.077) (::0.072))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g972)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.111) (::0.088))
+          (IOPATH B0 Y (::0.057) (::0.060))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g973)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.129) (::0.094))
+          (IOPATH B0 Y (::0.079) (::0.073))
+          (IOPATH A1 Y (::0.128) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g974)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.122) (::0.093))
+          (IOPATH B0 Y (::0.075) (::0.077))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g975)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.127) (::0.092))
+          (IOPATH B0 Y (::0.056) (::0.060))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g976)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.116) (::0.091))
+          (IOPATH B0 Y (::0.067) (::0.066))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g977)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.111) (::0.087))
+          (IOPATH B0 Y (::0.074) (::0.077))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g979)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.132) (::0.100))
+          (IOPATH B0 Y (::0.081) (::0.080))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g980)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.119) (::0.092))
+          (IOPATH B0 Y (::0.065) (::0.064))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g981)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.125) (::0.095))
+          (IOPATH B0 Y (::0.079) (::0.073))
+          (IOPATH A1 Y (::0.128) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g989)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.126) (::0.092))
+          (IOPATH B0 Y (::0.077) (::0.074))
+          (IOPATH A1 Y (::0.126) (::0.098))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g990)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.098) (::0.082))
+          (IOPATH B0 Y (::0.056) (::0.052))
+          (IOPATH A1 Y (::0.088) (::0.070))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g991)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.081) (::0.092))
+          (IOPATH B Y (::0.073) (::0.089))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AO21X1")
+     (INSTANCE acc.add_17_54.g992)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.179) (::0.185))
+          (IOPATH B0 Y (::0.120) (::0.144))
+          (IOPATH A1 Y (::0.184) (::0.194))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g993)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.112) (::0.114))
+          (IOPATH B0 Y (::0.083) (::0.070))
+          (IOPATH A1 Y (::0.115) (::0.093))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE acc.add_17_54.g994)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.142) (::0.128))
+          (IOPATH B0 Y (::0.097) (::0.069))
+          (IOPATH A1 Y (::0.149) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OA21XL")
+     (INSTANCE acc.add_17_54.g995)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.175) (::0.164))
+          (IOPATH B0 Y (::0.127) (::0.130))
+          (IOPATH A1 Y (::0.141) (::0.158))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI31XL")
+     (INSTANCE acc.add_17_54.g996)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT A2 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.243) (::0.142))
+          (IOPATH B0 Y (::0.070) (::0.070))
+          (IOPATH A1 Y (::0.213) (::0.144))
+          (IOPATH A2 Y (::0.205) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI31XL")
+     (INSTANCE acc.add_17_54.g997)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT A2 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.243) (::0.142))
+          (IOPATH B0 Y (::0.078) (::0.078))
+          (IOPATH A1 Y (::0.209) (::0.117))
+          (IOPATH A2 Y (::0.205) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE acc.add_17_54.g998)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.125) (::0.106))
+          (IOPATH B0 Y (::0.122) (::0.074))
+          (IOPATH A1 Y (::0.149) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI31XL")
+     (INSTANCE acc.add_17_54.g999)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT A2 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.243) (::0.142))
+          (IOPATH B0 Y (::0.086) (::0.083))
+          (IOPATH A1 Y (::0.221) (::0.121))
+          (IOPATH A2 Y (::0.205) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI31XL")
+     (INSTANCE acc.add_17_54.g1000)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT A2 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.219) (::0.125))
+          (IOPATH B0 Y (::0.088) (::0.081))
+          (IOPATH A1 Y (::0.218) (::0.145))
+          (IOPATH A2 Y (::0.210) (::0.127))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE acc.add_17_54.g1001)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.127) (::0.117))
+          (IOPATH B0 Y (::0.095) (::0.062))
+          (IOPATH A1 Y (::0.149) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1002)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.140) (::0.106))
+          (IOPATH B0 Y (::0.081) (::0.080))
+          (IOPATH A1 Y (::0.115) (::0.093))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1003)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.084) (::0.068))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKAND2X2")
+     (INSTANCE acc.add_17_54.g1004)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.247) (::0.258))
+          (IOPATH B Y (::0.238) (::0.244))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI221X1")
+     (INSTANCE acc.add_17_54.g1005)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.167) (::0.127))
+          (IOPATH B0 Y (::0.123) (::0.089))
+          (IOPATH A1 Y (::0.167) (::0.123))
+          (IOPATH C0 Y (::0.094) (::0.058))
+          (IOPATH B1 Y (::0.144) (::0.121))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE acc.add_17_54.g1006)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.137) (::0.117))
+          (IOPATH B0 Y (::0.092) (::0.061))
+          (IOPATH A1 Y (::0.149) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "MXI2XL")
+     (INSTANCE acc.add_17_54.g1007)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT S0 (::0.000))
+          (IOPATH A Y (::0.128) (::0.111))
+          (IOPATH B Y (::0.145) (::0.111))
+          (IOPATH S0 Y (::0.152) (::0.148))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE acc.add_17_54.g1008)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.120) (::0.101))
+          (IOPATH B0 Y (::0.082) (::0.057))
+          (IOPATH A1 Y (::0.149) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1009)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.064) (::0.086))
+          (IOPATH B Y (::0.093) (::0.099))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE acc.add_17_54.g1010)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.131) (::0.111))
+          (IOPATH B0 Y (::0.070) (::0.070))
+          (IOPATH A1 Y (::0.155) (::0.104))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE acc.add_17_54.g1011)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.133) (::0.111))
+          (IOPATH B0 Y (::0.070) (::0.064))
+          (IOPATH A1 Y (::0.106) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1013)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.094) (::0.084))
+          (IOPATH B Y (::0.071) (::0.084))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21X1")
+     (INSTANCE acc.add_17_54.g1014)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.115) (::0.108))
+          (IOPATH B0 Y (::0.082) (::0.056))
+          (IOPATH A1 Y (::0.094) (::0.084))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OA21XL")
+     (INSTANCE acc.add_17_54.g1015)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.175) (::0.164))
+          (IOPATH B0 Y (::0.127) (::0.130))
+          (IOPATH A1 Y (::0.157) (::0.181))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI2BB1XL")
+     (INSTANCE acc.add_17_54.g1016)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.137) (::0.157))
+          (IOPATH B0 Y (::0.103) (::0.065))
+          (IOPATH A0N Y (::0.124) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OA21XL")
+     (INSTANCE acc.add_17_54.g1017)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.160) (::0.150))
+          (IOPATH B0 Y (::0.113) (::0.119))
+          (IOPATH A1 Y (::0.142) (::0.168))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1018)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.093) (::0.095))
+          (IOPATH B0 Y (::0.066) (::0.056))
+          (IOPATH A1 Y (::0.083) (::0.067))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1019)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.065))
+          (IOPATH B Y (::0.072) (::0.084))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1024)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.159) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI211X1")
+     (INSTANCE acc.add_17_54.g1026)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.149) (::0.102))
+          (IOPATH B0 Y (::0.101) (::0.055))
+          (IOPATH A1 Y (::0.142) (::0.108))
+          (IOPATH C0 Y (::0.091) (::0.051))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1027)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.091) (::0.074))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1028)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.231) (::0.183))
+          (IOPATH B0 Y (::0.126) (::0.130))
+          (IOPATH A1 Y (::0.237) (::0.194))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1029)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.124) (::0.096))
+          (IOPATH B0 Y (::0.059) (::0.058))
+          (IOPATH A1 Y (::0.098) (::0.078))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1030)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.242) (::0.219))
+          (IOPATH B Y (::0.170) (::0.198))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI211X1")
+     (INSTANCE acc.add_17_54.g1031)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.110) (::0.112))
+          (IOPATH B0 Y (::0.074) (::0.080))
+          (IOPATH A1 Y (::0.096) (::0.100))
+          (IOPATH C0 Y (::0.055) (::0.069))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI221X1")
+     (INSTANCE acc.add_17_54.g1032)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.150) (::0.096))
+          (IOPATH B0 Y (::0.122) (::0.089))
+          (IOPATH A1 Y (::0.157) (::0.123))
+          (IOPATH C0 Y (::0.076) (::0.050))
+          (IOPATH B1 Y (::0.120) (::0.090))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI211X1")
+     (INSTANCE acc.add_17_54.g1033)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.134) (::0.079))
+          (IOPATH B0 Y (::0.087) (::0.048))
+          (IOPATH A1 Y (::0.132) (::0.101))
+          (IOPATH C0 Y (::0.083) (::0.046))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1034)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.120) (::0.064))
+          (IOPATH B Y (::0.133) (::0.073))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1035)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.145) (::0.116))
+          (IOPATH B Y (::0.085) (::0.121))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKAND2X2")
+     (INSTANCE acc.add_17_54.g1037)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.128) (::0.149))
+          (IOPATH B Y (::0.148) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1038)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.115) (::0.107))
+          (IOPATH B Y (::0.083) (::0.102))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1039)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.122) (::0.063))
+          (IOPATH B Y (::0.133) (::0.073))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3X1")
+     (INSTANCE acc.add_17_54.g1040)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH A Y (::0.130) (::0.129))
+          (IOPATH B Y (::0.066) (::0.111))
+          (IOPATH C Y (::0.071) (::0.129))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE acc.add_17_54.g1041)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.136) (::0.113))
+          (IOPATH B0 Y (::0.071) (::0.070))
+          (IOPATH A1 Y (::0.155) (::0.104))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1042)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.118) (::0.109))
+          (IOPATH AN Y (::0.134) (::0.167))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1043)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.081) (::0.083))
+          (IOPATH B Y (::0.086) (::0.088))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1044)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.102) (::0.127))
+          (IOPATH B Y (::0.081) (::0.102))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1045)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.091) (::0.108))
+          (IOPATH B Y (::0.096) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE acc.add_17_54.g1046)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.096) (::0.136))
+          (IOPATH AN Y (::0.125) (::0.138))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1047)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.102) (::0.127))
+          (IOPATH B Y (::0.069) (::0.102))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1048)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.102) (::0.127))
+          (IOPATH B Y (::0.063) (::0.086))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1049)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.069) (::0.088))
+          (IOPATH B Y (::0.096) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1050)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.062) (::0.084))
+          (IOPATH B Y (::0.096) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE acc.add_17_54.g1052)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.106) (::0.081))
+          (IOPATH B0 Y (::0.062) (::0.046))
+          (IOPATH A1 Y (::0.108) (::0.101))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI2BB1X1")
+     (INSTANCE acc.add_17_54.g1053)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.148) (::0.130))
+          (IOPATH B0 Y (::0.072) (::0.064))
+          (IOPATH A0N Y (::0.131) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2X1")
+     (INSTANCE acc.add_17_54.g1058)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.176) (::0.107))
+          (IOPATH B Y (::0.181) (::0.107))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1059)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.094) (::0.076))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21X1")
+     (INSTANCE acc.add_17_54.g1060)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.184) (::0.161))
+          (IOPATH B0 Y (::0.127) (::0.090))
+          (IOPATH A1 Y (::0.177) (::0.166))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21X1")
+     (INSTANCE acc.add_17_54.g1061)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.184) (::0.161))
+          (IOPATH B0 Y (::0.126) (::0.086))
+          (IOPATH A1 Y (::0.175) (::0.164))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1062)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.099) (::0.075))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI211X1")
+     (INSTANCE acc.add_17_54.g1063)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.185) (::0.190))
+          (IOPATH B0 Y (::0.106) (::0.138))
+          (IOPATH A1 Y (::0.161) (::0.191))
+          (IOPATH C0 Y (::0.094) (::0.132))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21X1")
+     (INSTANCE acc.add_17_54.g1064)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.106) (::0.097))
+          (IOPATH B0 Y (::0.068) (::0.048))
+          (IOPATH A1 Y (::0.107) (::0.104))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1065)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.143) (::0.098))
+          (IOPATH B0 Y (::0.059) (::0.063))
+          (IOPATH A1 Y (::0.089) (::0.074))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2X1")
+     (INSTANCE acc.add_17_54.g1068)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.154) (::0.133))
+          (IOPATH B Y (::0.153) (::0.142))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1069)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.128) (::0.102))
+          (IOPATH B Y (::0.125) (::0.111))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE acc.add_17_54.g1070)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.178) (::0.144))
+          (IOPATH B Y (::0.151) (::0.111))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1071)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.094) (::0.052))
+          (IOPATH B Y (::0.118) (::0.054))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1072)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.093) (::0.112))
+          (IOPATH B Y (::0.068) (::0.090))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE acc.add_17_54.g1073)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.068) (::0.090))
+          (IOPATH AN Y (::0.125) (::0.138))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1074)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.086) (::0.101))
+          (IOPATH B Y (::0.081) (::0.102))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1075)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.138) (::0.109))
+          (IOPATH B Y (::0.073) (::0.094))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1076)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.066) (::0.083))
+          (IOPATH AN Y (::0.127) (::0.132))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1077)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.126) (::0.093))
+          (IOPATH B Y (::0.145) (::0.071))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "INVXL")
+     (INSTANCE acc.add_17_54.g1078)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.092) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1079)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.330) (::0.154))
+          (IOPATH B Y (::0.343) (::0.159))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1083)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.065) (::0.086))
+          (IOPATH B Y (::0.068) (::0.090))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1084)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.130) (::0.066))
+          (IOPATH B Y (::0.145) (::0.071))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE acc.add_17_54.g1085)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.149) (::0.121))
+          (IOPATH B Y (::0.184) (::0.135))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1086)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.155) (::0.208))
+          (IOPATH B Y (::0.150) (::0.209))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1087)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.095) (::0.115))
+          (IOPATH B Y (::0.084) (::0.112))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1089)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.112) (::0.141))
+          (IOPATH B Y (::0.096) (::0.131))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1090)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.084) (::0.112))
+          (IOPATH AN Y (::0.136) (::0.145))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1091)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.080) (::0.094))
+          (IOPATH B Y (::0.092) (::0.122))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1092)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.091) (::0.063))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1093)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.128) (::0.168))
+          (IOPATH B Y (::0.115) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1094)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.095) (::0.066))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1095)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.129) (::0.172))
+          (IOPATH B Y (::0.128) (::0.177))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE acc.add_17_54.g1096)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.138) (::0.113))
+          (IOPATH B Y (::0.170) (::0.126))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1097)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.160) (::0.122))
+          (IOPATH B0 Y (::0.088) (::0.078))
+          (IOPATH A1 Y (::0.130) (::0.126))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1098)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.186) (::0.142))
+          (IOPATH B0 Y (::0.113) (::0.100))
+          (IOPATH A1 Y (::0.156) (::0.149))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1099)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.160) (::0.122))
+          (IOPATH B0 Y (::0.098) (::0.084))
+          (IOPATH A1 Y (::0.131) (::0.126))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1100)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.073) (::0.064))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1101)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.157) (::0.119))
+          (IOPATH B0 Y (::0.093) (::0.080))
+          (IOPATH A1 Y (::0.124) (::0.119))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1102)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.149) (::0.113))
+          (IOPATH B0 Y (::0.091) (::0.078))
+          (IOPATH A1 Y (::0.120) (::0.116))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1103)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.118) (::0.089))
+          (IOPATH B0 Y (::0.071) (::0.061))
+          (IOPATH A1 Y (::0.096) (::0.091))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1104)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.118) (::0.089))
+          (IOPATH B0 Y (::0.067) (::0.058))
+          (IOPATH A1 Y (::0.100) (::0.093))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1105)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.174) (::0.134))
+          (IOPATH B0 Y (::0.106) (::0.093))
+          (IOPATH A1 Y (::0.145) (::0.139))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1106)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.126) (::0.095))
+          (IOPATH B0 Y (::0.067) (::0.058))
+          (IOPATH A1 Y (::0.100) (::0.093))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1107)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.118) (::0.089))
+          (IOPATH B0 Y (::0.071) (::0.061))
+          (IOPATH A1 Y (::0.096) (::0.091))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1110)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.052) (::0.049))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHX1")
+     (INSTANCE acc.add_17_54.g1111)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.131) (::0.098))
+          (IOPATH B CO (::0.255) (::0.167))
+          (IOPATH A S (::0.199) (::0.208))
+          (IOPATH B S (::0.240) (::0.269))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1113)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.066) (::0.067))
+          (IOPATH AN Y (::0.124) (::0.126))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1115)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.120) (::0.122))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1117)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.085) (::0.077))
+          (IOPATH B Y (::0.061) (::0.070))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1118)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.137) (::0.092))
+          (IOPATH B Y (::0.138) (::0.094))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BX1")
+     (INSTANCE acc.add_17_54.g1119)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.066))
+          (IOPATH AN Y (::0.149) (::0.146))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1121)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1122)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.187) (::0.126))
+          (IOPATH B Y (::0.182) (::0.118))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1123)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.146) (::0.102))
+          (IOPATH B Y (::0.145) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1125)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.066) (::0.067))
+          (IOPATH AN Y (::0.124) (::0.126))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BX1")
+     (INSTANCE acc.add_17_54.g1127)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.072) (::0.047))
+          (IOPATH AN Y (::0.120) (::0.120))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1128)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.068) (::0.060))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1129)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.177) (::0.121))
+          (IOPATH B Y (::0.172) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1131)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.068) (::0.069))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1133)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BX1")
+     (INSTANCE acc.add_17_54.g1135)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.072) (::0.047))
+          (IOPATH AN Y (::0.120) (::0.120))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1136)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.095) (::0.096))
+          (IOPATH AN Y (::0.139) (::0.148))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1137)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.119) (::0.083))
+          (IOPATH B Y (::0.124) (::0.085))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "INVXL")
+     (INSTANCE acc.add_17_54.g1138)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.063) (::0.052))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1139)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.154) (::0.110))
+          (IOPATH B Y (::0.148) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1141)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.068) (::0.069))
+          (IOPATH AN Y (::0.128) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1143)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1145)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.085) (::0.077))
+          (IOPATH B Y (::0.059) (::0.066))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1147)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.066) (::0.067))
+          (IOPATH AN Y (::0.124) (::0.126))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1149)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1150)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.146) (::0.102))
+          (IOPATH B Y (::0.145) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BX1")
+     (INSTANCE acc.add_17_54.g1152)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.072) (::0.047))
+          (IOPATH AN Y (::0.120) (::0.120))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1154)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1155)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.070) (::0.064))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1156)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.142) (::0.100))
+          (IOPATH B Y (::0.138) (::0.094))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1157)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.137) (::0.092))
+          (IOPATH B Y (::0.138) (::0.094))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BX1")
+     (INSTANCE acc.add_17_54.g1159)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.073) (::0.047))
+          (IOPATH AN Y (::0.120) (::0.120))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1161)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.085) (::0.077))
+          (IOPATH B Y (::0.061) (::0.069))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1163)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.089) (::0.079))
+          (IOPATH B Y (::0.060) (::0.068))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1164)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.206) (::0.136))
+          (IOPATH B Y (::0.201) (::0.128))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1166)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BX1")
+     (INSTANCE acc.add_17_54.g1168)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.062) (::0.063))
+          (IOPATH AN Y (::0.122) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1169)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.203) (::0.139))
+          (IOPATH B Y (::0.199) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1170)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.083) (::0.074))
+          (IOPATH B0 Y (::0.082) (::0.064))
+          (IOPATH A1 Y (::0.145) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1171)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.083) (::0.074))
+          (IOPATH B0 Y (::0.080) (::0.062))
+          (IOPATH A1 Y (::0.145) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1172)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.100) (::0.088))
+          (IOPATH B0 Y (::0.104) (::0.081))
+          (IOPATH A1 Y (::0.172) (::0.141))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OA21X1")
+     (INSTANCE acc.add_17_54.g1173)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.163) (::0.172))
+          (IOPATH B0 Y (::0.150) (::0.172))
+          (IOPATH A1 Y (::0.242) (::0.260))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1174)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.110) (::0.096))
+          (IOPATH B0 Y (::0.111) (::0.086))
+          (IOPATH A1 Y (::0.187) (::0.161))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21X1")
+     (INSTANCE acc.add_17_54.g1176)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH B0 Y (::0.050) (::0.042))
+          (IOPATH A1 Y (::0.076) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1177)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.099) (::0.087))
+          (IOPATH B0 Y (::0.098) (::0.076))
+          (IOPATH A1 Y (::0.171) (::0.139))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1179)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.107) (::0.155))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1180)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1181)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.149) (::0.076))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1182)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1183)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "INVXL")
+     (INSTANCE acc.add_17_54.g1184)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.073) (::0.047))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1185)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.135))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1186)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1187)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.058) (::0.059))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1188)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.161) (::0.081))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1189)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.183) (::0.090))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1190)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.185) (::0.091))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1191)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.185) (::0.091))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1192)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.112) (::0.159))
+          (IOPATH B Y (::0.210) (::0.326))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1193)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.175) (::0.087))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1194)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.079) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1195)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.163) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1196)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.079) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1197)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.107) (::0.155))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1198)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.175) (::0.087))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1199)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.107) (::0.155))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1200)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1201)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1202)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1203)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.105) (::0.152))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1204)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.118) (::0.172))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1205)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.195) (::0.095))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1206)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1207)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.068) (::0.074))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1208)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.127) (::0.067))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1209)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.185) (::0.091))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "INVXL")
+     (INSTANCE acc.add_17_54.g1210)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.090) (::0.060))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1211)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.135))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1212)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.165) (::0.083))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1213)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.118) (::0.172))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1214)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.064) (::0.070))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1215)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.127) (::0.067))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1216)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.079) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1217)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "INVXL")
+     (INSTANCE acc.add_17_54.g1218)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.090) (::0.060))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1219)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.135))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1220)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.099) (::0.057))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1221)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.079) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1222)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.163) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1224)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.101) (::0.142))
+          (IOPATH B Y (::0.193) (::0.297))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1225)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.175) (::0.087))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1226)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.187) (::0.092))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1227)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.107) (::0.155))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1228)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1229)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.118) (::0.172))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1230)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1231)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1232)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE acc.add_17_54.g1233)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.069) (::0.075))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE acc.add_17_54.g1234)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.127) (::0.067))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1235)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.121) (::0.173))
+          (IOPATH B Y (::0.224) (::0.350))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1236)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.091) (::0.130))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1237)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.112) (::0.157))
+          (IOPATH B Y (::0.207) (::0.321))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1238)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.080) (::0.111))
+          (IOPATH B Y (::0.163) (::0.244))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1239)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.083) (::0.113))
+          (IOPATH B Y (::0.163) (::0.244))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE acc.add_17_54.g1240)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.084) (::0.115))
+          (IOPATH B Y (::0.165) (::0.248))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE acc.add_17_54.g2)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.178) (::0.196))
+          (IOPATH B Y (::0.177) (::0.179))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1242)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.242) (::0.219))
+          (IOPATH B Y (::0.155) (::0.176))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1243)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.203) (::0.196))
+          (IOPATH B Y (::0.198) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1244)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.200) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1245)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.205) (::0.199))
+          (IOPATH B Y (::0.198) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1246)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.198) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1247)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.203) (::0.196))
+          (IOPATH B Y (::0.203) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1248)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.209) (::0.204))
+          (IOPATH B Y (::0.171) (::0.185))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1249)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.205) (::0.198))
+          (IOPATH B Y (::0.198) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1250)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.201) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1251)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.209) (::0.204))
+          (IOPATH B Y (::0.181) (::0.204))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1252)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.205) (::0.198))
+          (IOPATH B Y (::0.200) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1253)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.210) (::0.176))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1254)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.205) (::0.199))
+          (IOPATH B Y (::0.188) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1255)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.203) (::0.196))
+          (IOPATH B Y (::0.202) (::0.155))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1256)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.210) (::0.176))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1257)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.209) (::0.204))
+          (IOPATH B Y (::0.168) (::0.188))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1258)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.200) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1259)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.209) (::0.204))
+          (IOPATH B Y (::0.168) (::0.188))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1260)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.205) (::0.199))
+          (IOPATH B Y (::0.210) (::0.176))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1261)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.206) (::0.200))
+          (IOPATH B Y (::0.199) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1262)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.198) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XNOR2XL")
+     (INSTANCE acc.add_17_54.g1263)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.201) (::0.194))
+          (IOPATH B Y (::0.202) (::0.152))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1264)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.207) (::0.204))
+          (IOPATH B Y (::0.168) (::0.188))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "XOR2XL")
+     (INSTANCE acc.add_17_54.g1265)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.288) (::0.280))
+          (IOPATH B Y (::0.156) (::0.181))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21X1")
+     (INSTANCE acc.add_17_54.g1266)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.111) (::0.113))
+          (IOPATH B0 Y (::0.088) (::0.075))
+          (IOPATH A1 Y (::0.100) (::0.081))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OA21XL")
+     (INSTANCE acc.add_17_54.g3)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.147) (::0.157))
+          (IOPATH B0 Y (::0.113) (::0.100))
+          (IOPATH A1 Y (::0.155) (::0.178))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BX1")
+     (INSTANCE acc.add_17_54.g1267)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.168) (::0.198))
+          (IOPATH C Y (::0.081) (::0.159))
+          (IOPATH AN Y (::0.143) (::0.224))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "INVXL")
+     (INSTANCE acc.g3)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.012) (::0.010))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[0\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.108))
+          (IOPATH CK Q (::0.363) (::0.371))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.088) (::0.100))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.129) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[10\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[11\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.075) (::0.113))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.130) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[12\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[13\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.133) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[5\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.102))
+          (IOPATH CK Q (::0.355) (::0.365))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.083) (::0.104))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.146) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[14\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.133) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[15\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.133) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[16\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.081) (::0.106))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.120) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[30\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[17\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[18\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[19\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.075) (::0.113))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.134) (::0.002))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[27\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.075) (::0.113))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.134) (::0.002))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[1\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.095))
+          (IOPATH CK Q (::0.345) (::0.358))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.089) (::0.098))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.142) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[20\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[21\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[22\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[23\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[24\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[25\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[26\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[28\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[29\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.075) (::0.113))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.134) (::0.002))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[2\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.102))
+          (IOPATH CK Q (::0.355) (::0.365))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.082) (::0.105))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.146) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[31\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.104))
+          (IOPATH CK Q (::0.357) (::0.367))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.075) (::0.113))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.134) (::0.002))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[3\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.102))
+          (IOPATH CK Q (::0.355) (::0.365))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.091) (::0.097))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.130) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[4\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.102))
+          (IOPATH CK Q (::0.355) (::0.365))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.078) (::0.109))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.132) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[6\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.102))
+          (IOPATH CK Q (::0.355) (::0.365))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.078) (::0.109))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.133) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[7\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.099))
+          (IOPATH CK Q (::0.350) (::0.362))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.084) (::0.104))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.136) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[8\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.079) (::0.109))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.141) (::0.000))
+     )
+  )
+  (CELL
+     (CELLTYPE "DFFRHQX1")
+     (INSTANCE acc.accumulated_result_reg\[9\])
+     (DELAY
+        (ABSOLUTE
+          (PORT RN (::0.000))
+          (PORT CK (::0.000))
+          (PORT D (::0.000))
+          (IOPATH RN Q () (::0.097))
+          (IOPATH CK Q (::0.347) (::0.359))
+        )
+     )
+     (TIMINGCHECK
+        (REMOVAL (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.213))
+        (RECOVERY (posedge RN) (COND D == 1'b1 (posedge CK)) (::0.000))
+        (SETUPHOLD (negedge D) (COND RN == 1'b1 (posedge CK)) (::0.074) (::0.114))
+        (SETUPHOLD (posedge D) (COND RN == 1'b1 (posedge CK)) (::0.135) (::0.004))
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.c1.g62)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.145) (::0.112))
+          (IOPATH B CO (::0.144) (::0.109))
+          (IOPATH A S (::0.208) (::0.208))
+          (IOPATH B S (::0.172) (::0.192))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKXOR2X1")
+     (INSTANCE vedic_mult.c1.g63)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.200) (::0.205))
+          (IOPATH B Y (::0.154) (::0.185))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.c1.g64)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.183) (::0.158))
+          (IOPATH B CO (::0.192) (::0.154))
+          (IOPATH A S (::0.248) (::0.237))
+          (IOPATH B S (::0.220) (::0.223))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.c1.g65)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.158) (::0.134))
+          (IOPATH B CO (::0.160) (::0.130))
+          (IOPATH A S (::0.207) (::0.201))
+          (IOPATH B S (::0.173) (::0.185))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g699)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.702) (::0.304))
+          (IOPATH B Y (::0.731) (::0.321))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI32XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g700)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT A2 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.103) (::0.139))
+          (IOPATH B0 Y (::0.080) (::0.081))
+          (IOPATH A1 Y (::0.108) (::0.140))
+          (IOPATH B1 Y (::0.083) (::0.091))
+          (IOPATH A2 Y (::0.111) (::0.148))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g701)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.120) (::0.100))
+          (IOPATH B0 Y (::0.056) (::0.053))
+          (IOPATH A1 Y (::0.097) (::0.084))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI2BB1XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g702)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.144) (::0.137))
+          (IOPATH B0 Y (::0.061) (::0.071))
+          (IOPATH A0N Y (::0.135) (::0.123))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g703)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.116) (::0.112))
+          (IOPATH B0 Y (::0.113) (::0.104))
+          (IOPATH A1 Y (::0.118) (::0.117))
+          (IOPATH B1 Y (::0.101) (::0.102))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OR2X1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g704)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.100) (::0.144))
+          (IOPATH B Y (::0.094) (::0.143))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI2BB1XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g705)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.145) (::0.153))
+          (IOPATH B0 Y (::0.104) (::0.105))
+          (IOPATH A0N Y (::0.147) (::0.153))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI211XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g706)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT C0 (::0.000))
+          (IOPATH A0 Y (::0.126) (::0.131))
+          (IOPATH B0 Y (::0.096) (::0.119))
+          (IOPATH A1 Y (::0.116) (::0.119))
+          (IOPATH C0 Y (::0.068) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI2BB1XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g707)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.144) (::0.144))
+          (IOPATH B0 Y (::0.081) (::0.103))
+          (IOPATH A0N Y (::0.147) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g708)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.105) (::0.086))
+          (IOPATH B0 Y (::0.058) (::0.054))
+          (IOPATH A1 Y (::0.103) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI2BB1XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g709)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.145) (::0.134))
+          (IOPATH B0 Y (::0.068) (::0.077))
+          (IOPATH A0N Y (::0.129) (::0.129))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g710)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.118) (::0.102))
+          (IOPATH B0 Y (::0.057) (::0.056))
+          (IOPATH A1 Y (::0.104) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g711)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.171) (::0.130))
+          (IOPATH B0 Y (::0.076) (::0.074))
+          (IOPATH A1 Y (::0.124) (::0.099))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI2BB1XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g712)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0N (::0.000))
+          (PORT A1N (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A1N Y (::0.145) (::0.152))
+          (IOPATH B0 Y (::0.061) (::0.071))
+          (IOPATH A0N Y (::0.122) (::0.115))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI32XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g713)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT A2 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.136) (::0.179))
+          (IOPATH B0 Y (::0.098) (::0.114))
+          (IOPATH A1 Y (::0.128) (::0.178))
+          (IOPATH B1 Y (::0.096) (::0.104))
+          (IOPATH A2 Y (::0.135) (::0.184))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g714)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.221) (::0.243))
+          (IOPATH A CO (::0.234) (::0.258))
+          (IOPATH B CO (::0.223) (::0.248))
+          (IOPATH CI S (::0.393) (::0.368))
+          (IOPATH A S (::0.398) (::0.376))
+          (IOPATH B S (::0.390) (::0.373))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g715)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.219) (::0.235))
+          (IOPATH A CO (::0.212) (::0.234))
+          (IOPATH B CO (::0.204) (::0.231))
+          (IOPATH CI S (::0.399) (::0.382))
+          (IOPATH A S (::0.390) (::0.370))
+          (IOPATH B S (::0.389) (::0.372))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g716)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.196) (::0.217))
+          (IOPATH A CO (::0.235) (::0.254))
+          (IOPATH B CO (::0.206) (::0.232))
+          (IOPATH CI S (::0.383) (::0.361))
+          (IOPATH A S (::0.411) (::0.393))
+          (IOPATH B S (::0.391) (::0.374))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g717)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.195) (::0.213))
+          (IOPATH A CO (::0.212) (::0.234))
+          (IOPATH B CO (::0.226) (::0.252))
+          (IOPATH CI S (::0.379) (::0.360))
+          (IOPATH A S (::0.391) (::0.371))
+          (IOPATH B S (::0.416) (::0.393))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKINVX1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g718)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (IOPATH A Y (::0.057) (::0.047))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g719)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.219) (::0.235))
+          (IOPATH A CO (::0.212) (::0.234))
+          (IOPATH B CO (::0.205) (::0.231))
+          (IOPATH CI S (::0.395) (::0.378))
+          (IOPATH A S (::0.386) (::0.366))
+          (IOPATH B S (::0.384) (::0.368))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR3XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g720)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH A Y (::0.139) (::0.062))
+          (IOPATH B Y (::0.129) (::0.057))
+          (IOPATH C Y (::0.137) (::0.062))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g721)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.114) (::0.098))
+          (IOPATH B0 Y (::0.057) (::0.057))
+          (IOPATH A1 Y (::0.098) (::0.078))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI222XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g722)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (PORT C0 (::0.000))
+          (PORT C1 (::0.000))
+          (IOPATH C1 Y (::0.115) (::0.100))
+          (IOPATH A0 Y (::0.146) (::0.110))
+          (IOPATH B0 Y (::0.136) (::0.115))
+          (IOPATH A1 Y (::0.141) (::0.105))
+          (IOPATH C0 Y (::0.099) (::0.086))
+          (IOPATH B1 Y (::0.128) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "CLKXOR2X1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g723)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.254) (::0.249))
+          (IOPATH B Y (::0.174) (::0.202))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g724)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.124) (::0.069))
+          (IOPATH B Y (::0.112) (::0.062))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g725)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.172) (::0.130))
+          (IOPATH B CO (::0.179) (::0.140))
+          (IOPATH A S (::0.232) (::0.236))
+          (IOPATH B S (::0.212) (::0.223))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g726)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.155) (::0.134))
+          (IOPATH B CO (::0.159) (::0.125))
+          (IOPATH A S (::0.269) (::0.256))
+          (IOPATH B S (::0.232) (::0.240))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g727)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.186) (::0.141))
+          (IOPATH B CO (::0.188) (::0.136))
+          (IOPATH A S (::0.251) (::0.253))
+          (IOPATH B S (::0.214) (::0.237))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g728)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.175) (::0.134))
+          (IOPATH B CO (::0.172) (::0.129))
+          (IOPATH A S (::0.208) (::0.209))
+          (IOPATH B S (::0.169) (::0.192))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g729)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.175) (::0.134))
+          (IOPATH B CO (::0.212) (::0.169))
+          (IOPATH A S (::0.230) (::0.229))
+          (IOPATH B S (::0.240) (::0.241))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g730)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.189) (::0.160))
+          (IOPATH B CO (::0.192) (::0.154))
+          (IOPATH A S (::0.269) (::0.256))
+          (IOPATH B S (::0.236) (::0.239))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OA21X1")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g731)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.150) (::0.155))
+          (IOPATH B0 Y (::0.100) (::0.089))
+          (IOPATH A1 Y (::0.131) (::0.149))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g732)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.063) (::0.073))
+          (IOPATH B Y (::0.059) (::0.075))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.csa_tree_add_85_52_groupi.g733)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.100) (::0.061))
+          (IOPATH B Y (::0.078) (::0.046))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm1.g848)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.177) (::0.139))
+          (IOPATH B0 Y (::0.091) (::0.093))
+          (IOPATH A1 Y (::0.173) (::0.131))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g849)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.070) (::0.072))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm1.g850)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.178) (::0.139))
+          (IOPATH B0 Y (::0.112) (::0.101))
+          (IOPATH A1 Y (::0.173) (::0.142))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm1.g851)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.146) (::0.114))
+          (IOPATH B0 Y (::0.075) (::0.074))
+          (IOPATH A1 Y (::0.139) (::0.108))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g852)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.068) (::0.074))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g853)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.096))
+          (IOPATH B Y (::0.086) (::0.097))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g854)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.083) (::0.101))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g855)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.085) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm1.g856)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.102) (::0.097))
+          (IOPATH AN Y (::0.112) (::0.149))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm1.g857)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.085) (::0.098))
+          (IOPATH AN Y (::0.114) (::0.165))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.vm1.g858)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.254) (::0.266))
+          (IOPATH A CO (::0.273) (::0.268))
+          (IOPATH B CO (::0.258) (::0.284))
+          (IOPATH CI S (::0.387) (::0.372))
+          (IOPATH A S (::0.381) (::0.386))
+          (IOPATH B S (::0.403) (::0.379))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g859)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.093) (::0.097))
+          (IOPATH B Y (::0.089) (::0.095))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm1.g861)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.100))
+          (IOPATH AN Y (::0.122) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm1.g862)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.127) (::0.091))
+          (IOPATH B Y (::0.142) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g863)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.122))
+          (IOPATH B Y (::0.103) (::0.125))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm1.g864)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.145) (::0.112))
+          (IOPATH B0 Y (::0.112) (::0.089))
+          (IOPATH A1 Y (::0.144) (::0.129))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm1.g865)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.176) (::0.153))
+          (IOPATH B0 Y (::0.126) (::0.101))
+          (IOPATH A1 Y (::0.200) (::0.143))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm1.g866)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.170) (::0.149))
+          (IOPATH B0 Y (::0.095) (::0.098))
+          (IOPATH A1 Y (::0.194) (::0.138))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm1.g867)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.225) (::0.105))
+          (IOPATH B Y (::0.229) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g868)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.086) (::0.077))
+          (IOPATH B Y (::0.058) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm1.g869)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.117) (::0.073))
+          (IOPATH AN Y (::0.155) (::0.122))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm1.g870)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.057) (::0.134))
+          (IOPATH AN Y (::0.141) (::0.205))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm1.g871)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.138) (::0.113))
+          (IOPATH B0 Y (::0.104) (::0.088))
+          (IOPATH A1 Y (::0.127) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g872)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.072) (::0.095))
+          (IOPATH B Y (::0.074) (::0.110))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm1.g873)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.115) (::0.064))
+          (IOPATH B Y (::0.113) (::0.073))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g874)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.106) (::0.149))
+          (IOPATH B Y (::0.110) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm1.g875)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.128) (::0.071))
+          (IOPATH AN Y (::0.159) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.vm1.g876)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.141) (::0.108))
+          (IOPATH B CO (::0.138) (::0.103))
+          (IOPATH A S (::0.206) (::0.208))
+          (IOPATH B S (::0.168) (::0.191))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm1.g877)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.123) (::0.071))
+          (IOPATH B Y (::0.107) (::0.060))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm1.g878)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.200) (::0.156))
+          (IOPATH B0 Y (::0.145) (::0.119))
+          (IOPATH A1 Y (::0.194) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3XL")
+     (INSTANCE vedic_mult.vm1.g879)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH A Y (::0.062) (::0.139))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.074) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm1.g880)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.153) (::0.113))
+          (IOPATH B Y (::0.154) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm1.g881)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.192) (::0.091))
+          (IOPATH B Y (::0.189) (::0.088))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm1.g882)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.077) (::0.079))
+          (IOPATH B0 Y (::0.058) (::0.060))
+          (IOPATH A1 Y (::0.072) (::0.076))
+          (IOPATH B1 Y (::0.053) (::0.058))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm1.g883)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.076) (::0.077))
+          (IOPATH B0 Y (::0.056) (::0.058))
+          (IOPATH A1 Y (::0.071) (::0.074))
+          (IOPATH B1 Y (::0.052) (::0.056))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g884)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.054) (::0.081))
+          (IOPATH B Y (::0.051) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm1.g885)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.130) (::0.090))
+          (IOPATH B Y (::0.124) (::0.084))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm1.g886)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.150) (::0.105))
+          (IOPATH B Y (::0.144) (::0.099))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g887)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm1.g888)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.146) (::0.102))
+          (IOPATH B Y (::0.140) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm1.g889)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm1.g2)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.043) (::0.098))
+          (IOPATH C Y (::0.039) (::0.093))
+          (IOPATH AN Y (::0.121) (::0.177))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm2.g848)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.212) (::0.167))
+          (IOPATH B0 Y (::0.109) (::0.114))
+          (IOPATH A1 Y (::0.209) (::0.160))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g849)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.070) (::0.072))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm2.g850)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.203) (::0.159))
+          (IOPATH B0 Y (::0.126) (::0.116))
+          (IOPATH A1 Y (::0.198) (::0.163))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm2.g851)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.224) (::0.177))
+          (IOPATH B0 Y (::0.116) (::0.120))
+          (IOPATH A1 Y (::0.218) (::0.172))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g852)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.068) (::0.074))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g853)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.096))
+          (IOPATH B Y (::0.086) (::0.097))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g854)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.083) (::0.101))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g855)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.085) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm2.g856)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.102) (::0.097))
+          (IOPATH AN Y (::0.112) (::0.149))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm2.g857)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.085) (::0.098))
+          (IOPATH AN Y (::0.114) (::0.165))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.vm2.g858)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.254) (::0.266))
+          (IOPATH A CO (::0.273) (::0.268))
+          (IOPATH B CO (::0.258) (::0.284))
+          (IOPATH CI S (::0.437) (::0.416))
+          (IOPATH A S (::0.432) (::0.430))
+          (IOPATH B S (::0.454) (::0.424))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g859)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.093) (::0.097))
+          (IOPATH B Y (::0.089) (::0.095))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm2.g861)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.100))
+          (IOPATH AN Y (::0.122) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm2.g862)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.127) (::0.091))
+          (IOPATH B Y (::0.142) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g863)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.122))
+          (IOPATH B Y (::0.103) (::0.125))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm2.g864)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.153) (::0.118))
+          (IOPATH B0 Y (::0.118) (::0.095))
+          (IOPATH A1 Y (::0.151) (::0.135))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm2.g865)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.176) (::0.153))
+          (IOPATH B0 Y (::0.126) (::0.101))
+          (IOPATH A1 Y (::0.200) (::0.143))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm2.g866)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.170) (::0.149))
+          (IOPATH B0 Y (::0.095) (::0.098))
+          (IOPATH A1 Y (::0.194) (::0.138))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm2.g867)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.225) (::0.105))
+          (IOPATH B Y (::0.229) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g868)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.086) (::0.077))
+          (IOPATH B Y (::0.058) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm2.g869)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.117) (::0.073))
+          (IOPATH AN Y (::0.155) (::0.122))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm2.g870)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.057) (::0.134))
+          (IOPATH AN Y (::0.141) (::0.205))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm2.g871)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.138) (::0.113))
+          (IOPATH B0 Y (::0.104) (::0.088))
+          (IOPATH A1 Y (::0.127) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g872)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.072) (::0.095))
+          (IOPATH B Y (::0.074) (::0.110))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm2.g873)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.115) (::0.064))
+          (IOPATH B Y (::0.113) (::0.073))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g874)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.106) (::0.149))
+          (IOPATH B Y (::0.110) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm2.g875)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.128) (::0.071))
+          (IOPATH AN Y (::0.159) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.vm2.g876)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.141) (::0.108))
+          (IOPATH B CO (::0.138) (::0.103))
+          (IOPATH A S (::0.206) (::0.208))
+          (IOPATH B S (::0.168) (::0.191))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm2.g877)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.135) (::0.077))
+          (IOPATH B Y (::0.119) (::0.065))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm2.g878)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.200) (::0.156))
+          (IOPATH B0 Y (::0.145) (::0.119))
+          (IOPATH A1 Y (::0.194) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3XL")
+     (INSTANCE vedic_mult.vm2.g879)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH A Y (::0.062) (::0.139))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.074) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm2.g880)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.156) (::0.118))
+          (IOPATH B Y (::0.154) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm2.g881)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.192) (::0.091))
+          (IOPATH B Y (::0.189) (::0.088))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm2.g882)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.077) (::0.079))
+          (IOPATH B0 Y (::0.058) (::0.060))
+          (IOPATH A1 Y (::0.072) (::0.076))
+          (IOPATH B1 Y (::0.053) (::0.058))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm2.g883)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.076) (::0.077))
+          (IOPATH B0 Y (::0.056) (::0.058))
+          (IOPATH A1 Y (::0.071) (::0.074))
+          (IOPATH B1 Y (::0.052) (::0.056))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g884)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.054) (::0.081))
+          (IOPATH B Y (::0.051) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm2.g885)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.147) (::0.103))
+          (IOPATH B Y (::0.141) (::0.097))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm2.g886)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.150) (::0.105))
+          (IOPATH B Y (::0.144) (::0.099))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g887)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm2.g888)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.146) (::0.102))
+          (IOPATH B Y (::0.140) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm2.g889)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm2.g2)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.043) (::0.098))
+          (IOPATH C Y (::0.039) (::0.093))
+          (IOPATH AN Y (::0.121) (::0.177))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm3.g848)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.167) (::0.131))
+          (IOPATH B0 Y (::0.086) (::0.087))
+          (IOPATH A1 Y (::0.164) (::0.123))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g849)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.070) (::0.072))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm3.g850)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.168) (::0.131))
+          (IOPATH B0 Y (::0.107) (::0.095))
+          (IOPATH A1 Y (::0.163) (::0.134))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm3.g851)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.253) (::0.201))
+          (IOPATH B0 Y (::0.131) (::0.138))
+          (IOPATH A1 Y (::0.247) (::0.196))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g852)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.068) (::0.074))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g853)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.096))
+          (IOPATH B Y (::0.086) (::0.097))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g854)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.083) (::0.101))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g855)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.085) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm3.g856)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.102) (::0.097))
+          (IOPATH AN Y (::0.112) (::0.149))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm3.g857)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.085) (::0.098))
+          (IOPATH AN Y (::0.114) (::0.165))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.vm3.g858)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.254) (::0.266))
+          (IOPATH A CO (::0.273) (::0.268))
+          (IOPATH B CO (::0.258) (::0.284))
+          (IOPATH CI S (::0.452) (::0.430))
+          (IOPATH A S (::0.447) (::0.444))
+          (IOPATH B S (::0.469) (::0.437))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g859)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.093) (::0.097))
+          (IOPATH B Y (::0.089) (::0.095))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm3.g861)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.100))
+          (IOPATH AN Y (::0.122) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm3.g862)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.127) (::0.091))
+          (IOPATH B Y (::0.142) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g863)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.122))
+          (IOPATH B Y (::0.103) (::0.125))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm3.g864)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.165) (::0.128))
+          (IOPATH B0 Y (::0.127) (::0.104))
+          (IOPATH A1 Y (::0.163) (::0.145))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm3.g865)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.176) (::0.153))
+          (IOPATH B0 Y (::0.126) (::0.101))
+          (IOPATH A1 Y (::0.200) (::0.143))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm3.g866)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.170) (::0.149))
+          (IOPATH B0 Y (::0.095) (::0.098))
+          (IOPATH A1 Y (::0.194) (::0.138))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm3.g867)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.225) (::0.105))
+          (IOPATH B Y (::0.229) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g868)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.086) (::0.077))
+          (IOPATH B Y (::0.058) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm3.g869)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.117) (::0.073))
+          (IOPATH AN Y (::0.155) (::0.122))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm3.g870)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.057) (::0.134))
+          (IOPATH AN Y (::0.141) (::0.205))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm3.g871)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.138) (::0.113))
+          (IOPATH B0 Y (::0.104) (::0.088))
+          (IOPATH A1 Y (::0.127) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g872)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.072) (::0.095))
+          (IOPATH B Y (::0.074) (::0.110))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm3.g873)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.115) (::0.064))
+          (IOPATH B Y (::0.113) (::0.073))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g874)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.106) (::0.149))
+          (IOPATH B Y (::0.110) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm3.g875)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.128) (::0.071))
+          (IOPATH AN Y (::0.159) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.vm3.g876)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.141) (::0.108))
+          (IOPATH B CO (::0.138) (::0.103))
+          (IOPATH A S (::0.206) (::0.208))
+          (IOPATH B S (::0.168) (::0.191))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm3.g877)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.147) (::0.082))
+          (IOPATH B Y (::0.131) (::0.070))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm3.g878)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.200) (::0.156))
+          (IOPATH B0 Y (::0.145) (::0.119))
+          (IOPATH A1 Y (::0.194) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3XL")
+     (INSTANCE vedic_mult.vm3.g879)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH A Y (::0.062) (::0.139))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.074) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm3.g880)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.157) (::0.119))
+          (IOPATH B Y (::0.154) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm3.g881)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.192) (::0.091))
+          (IOPATH B Y (::0.189) (::0.088))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm3.g882)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.077) (::0.079))
+          (IOPATH B0 Y (::0.058) (::0.060))
+          (IOPATH A1 Y (::0.072) (::0.076))
+          (IOPATH B1 Y (::0.053) (::0.058))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm3.g883)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.076) (::0.077))
+          (IOPATH B0 Y (::0.056) (::0.058))
+          (IOPATH A1 Y (::0.071) (::0.074))
+          (IOPATH B1 Y (::0.052) (::0.056))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g884)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.054) (::0.081))
+          (IOPATH B Y (::0.051) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm3.g885)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.151) (::0.106))
+          (IOPATH B Y (::0.145) (::0.100))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm3.g886)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.150) (::0.105))
+          (IOPATH B Y (::0.144) (::0.099))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g887)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm3.g888)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.146) (::0.102))
+          (IOPATH B Y (::0.140) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm3.g889)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm3.g2)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.043) (::0.098))
+          (IOPATH C Y (::0.039) (::0.093))
+          (IOPATH AN Y (::0.121) (::0.177))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm4.g848)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.113) (::0.088))
+          (IOPATH B0 Y (::0.057) (::0.055))
+          (IOPATH A1 Y (::0.110) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g849)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.070) (::0.072))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm4.g850)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.112) (::0.087))
+          (IOPATH B0 Y (::0.070) (::0.060))
+          (IOPATH A1 Y (::0.108) (::0.086))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm4.g851)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.150) (::0.117))
+          (IOPATH B0 Y (::0.077) (::0.076))
+          (IOPATH A1 Y (::0.143) (::0.112))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g852)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.068) (::0.074))
+          (IOPATH B Y (::0.066) (::0.072))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g853)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.096))
+          (IOPATH B Y (::0.086) (::0.097))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g854)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.083) (::0.101))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g855)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.099))
+          (IOPATH B Y (::0.085) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm4.g856)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.102) (::0.097))
+          (IOPATH AN Y (::0.112) (::0.149))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm4.g857)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.085) (::0.098))
+          (IOPATH AN Y (::0.114) (::0.165))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDFX1")
+     (INSTANCE vedic_mult.vm4.g858)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT CI (::0.000))
+          (IOPATH CI CO (::0.254) (::0.266))
+          (IOPATH A CO (::0.273) (::0.268))
+          (IOPATH B CO (::0.258) (::0.284))
+          (IOPATH CI S (::0.400) (::0.384))
+          (IOPATH A S (::0.394) (::0.398))
+          (IOPATH B S (::0.416) (::0.391))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g859)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.093) (::0.097))
+          (IOPATH B Y (::0.089) (::0.095))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2BXL")
+     (INSTANCE vedic_mult.vm4.g861)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.094) (::0.100))
+          (IOPATH AN Y (::0.122) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm4.g862)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.127) (::0.091))
+          (IOPATH B Y (::0.142) (::0.082))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g863)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.088) (::0.122))
+          (IOPATH B Y (::0.103) (::0.125))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm4.g864)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.153) (::0.118))
+          (IOPATH B0 Y (::0.118) (::0.095))
+          (IOPATH A1 Y (::0.151) (::0.135))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm4.g865)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.176) (::0.153))
+          (IOPATH B0 Y (::0.126) (::0.101))
+          (IOPATH A1 Y (::0.200) (::0.143))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm4.g866)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.170) (::0.149))
+          (IOPATH B0 Y (::0.095) (::0.098))
+          (IOPATH A1 Y (::0.194) (::0.138))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm4.g867)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.225) (::0.105))
+          (IOPATH B Y (::0.229) (::0.124))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g868)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.086) (::0.077))
+          (IOPATH B Y (::0.058) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm4.g869)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.117) (::0.073))
+          (IOPATH AN Y (::0.155) (::0.122))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm4.g870)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.057) (::0.134))
+          (IOPATH AN Y (::0.141) (::0.205))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "OAI21XL")
+     (INSTANCE vedic_mult.vm4.g871)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.138) (::0.113))
+          (IOPATH B0 Y (::0.104) (::0.088))
+          (IOPATH A1 Y (::0.127) (::0.103))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g872)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.072) (::0.095))
+          (IOPATH B Y (::0.074) (::0.110))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm4.g873)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.115) (::0.064))
+          (IOPATH B Y (::0.113) (::0.073))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g874)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.106) (::0.149))
+          (IOPATH B Y (::0.110) (::0.150))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2BXL")
+     (INSTANCE vedic_mult.vm4.g875)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (IOPATH B Y (::0.128) (::0.071))
+          (IOPATH AN Y (::0.159) (::0.136))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "ADDHXL")
+     (INSTANCE vedic_mult.vm4.g876)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A CO (::0.141) (::0.108))
+          (IOPATH B CO (::0.138) (::0.103))
+          (IOPATH A S (::0.206) (::0.208))
+          (IOPATH B S (::0.168) (::0.191))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm4.g877)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.135) (::0.077))
+          (IOPATH B Y (::0.119) (::0.065))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI21XL")
+     (INSTANCE vedic_mult.vm4.g878)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (IOPATH A0 Y (::0.200) (::0.156))
+          (IOPATH B0 Y (::0.145) (::0.119))
+          (IOPATH A1 Y (::0.194) (::0.154))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3XL")
+     (INSTANCE vedic_mult.vm4.g879)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH A Y (::0.062) (::0.139))
+          (IOPATH B Y (::0.060) (::0.137))
+          (IOPATH C Y (::0.074) (::0.140))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm4.g880)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.156) (::0.118))
+          (IOPATH B Y (::0.154) (::0.113))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NOR2XL")
+     (INSTANCE vedic_mult.vm4.g881)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.192) (::0.091))
+          (IOPATH B Y (::0.189) (::0.088))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm4.g882)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.077) (::0.079))
+          (IOPATH B0 Y (::0.058) (::0.060))
+          (IOPATH A1 Y (::0.072) (::0.076))
+          (IOPATH B1 Y (::0.053) (::0.058))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AOI22XL")
+     (INSTANCE vedic_mult.vm4.g883)
+     (DELAY
+        (ABSOLUTE
+          (PORT A0 (::0.000))
+          (PORT A1 (::0.000))
+          (PORT B0 (::0.000))
+          (PORT B1 (::0.000))
+          (IOPATH A0 Y (::0.076) (::0.077))
+          (IOPATH B0 Y (::0.056) (::0.058))
+          (IOPATH A1 Y (::0.071) (::0.074))
+          (IOPATH B1 Y (::0.052) (::0.056))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g884)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.054) (::0.081))
+          (IOPATH B Y (::0.051) (::0.080))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm4.g885)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.147) (::0.103))
+          (IOPATH B Y (::0.141) (::0.097))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm4.g886)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.150) (::0.105))
+          (IOPATH B Y (::0.144) (::0.099))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g887)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "AND2X1")
+     (INSTANCE vedic_mult.vm4.g888)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.146) (::0.102))
+          (IOPATH B Y (::0.140) (::0.096))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND2XL")
+     (INSTANCE vedic_mult.vm4.g889)
+     (DELAY
+        (ABSOLUTE
+          (PORT A (::0.000))
+          (PORT B (::0.000))
+          (IOPATH A Y (::0.053) (::0.079))
+          (IOPATH B Y (::0.050) (::0.079))
+        )
+     )
+  )
+  (CELL
+     (CELLTYPE "NAND3BXL")
+     (INSTANCE vedic_mult.vm4.g2)
+     (DELAY
+        (ABSOLUTE
+          (PORT AN (::0.000))
+          (PORT B (::0.000))
+          (PORT C (::0.000))
+          (IOPATH B Y (::0.043) (::0.098))
+          (IOPATH C Y (::0.039) (::0.093))
+          (IOPATH AN Y (::0.121) (::0.177))
+        )
+     )
+  )
+)

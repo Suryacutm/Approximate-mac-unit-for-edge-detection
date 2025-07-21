@@ -1,0 +1,27 @@
+ncsim: 10.20-s100: (c) Copyright 1995-2011 Cadence Design Systems, Inc.
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> ^C
+ncsim> exit
+ncsim: Memory Usage - 20.7M program + 31.4M data = 52.1M total
+ncsim: CPU Usage - 0.6s system + 6.3s user = 6.8s total (406.6s, 1.7% cpu)
+result mac_test.product mac_test.reduction_result mac_test.reset mac_test.weight
+Created probe 1
+ncsim> run
+Time=0 | Activation=0 | Weight=0 | Product=0 | Reduction_Result=Z | MAC_Result=0
+Time=15000 | Activation=10 | Weight=5 | Product=18 | Reduction_Result=Z | MAC_Result=x
+Time=25000 | Activation=255 | Weight=2 | Product=510 | Reduction_Result=Z | MAC_Result=x
+Time=35000 | Activation=4 | Weight=3 | Product=12 | Reduction_Result=Z | MAC_Result=x
+Time=45000 | Activation=127 | Weight=127 | Product=10357 | Reduction_Result=Z | MAC_Result=x
+Time=55000 | Activation=128 | Weight=128 | Product=0 | Reduction_Result=Z | MAC_Result=x
+Time=65000 | Activation=0 | Weight=0 | Product=0 | Reduction_Result=Z | MAC_Result=x
+Time=75000 | Activation=0 | Weight=0 | Product=0 | Reduction_Result=Z | MAC_Result=0
+Time=85000 | Activation=0 | Weight=0 | Product=0 | Reduction_Result=Z | MAC_Result=x
+Simulation complete via $finish(1) at time 185 NS + 0
+./app_mac_test.v:78         $finish;
+ncsim> ^C
+ncsim> exit
+ncsim: Memory Usage - 20.7M program + 32.2M data = 52.8M total
+ncsim: CPU Usage - 0.5s system + 4.0s user = 4.5s total (263.9s, 1.7% cpu)
