@@ -1,0 +1,53 @@
+Checking out Encounter license ...
+Encounter_Digital_Impl_Sys_XL 13.1 license checkout succeeded.
+You can run 2 CPU jobs with the base license that is currently checked out.
+If required, use the setMultiCpuUsage command to enable multi-CPU processing.
+**ERROR: (ENCOAX-142):	Could not open shared library libfeoax22.so : /home/buet/cadence/EDI/tools/lib/libfeoax22.so: undefined symbol: _ZN12OpenAccess_48oaAppDef9getAppDefILj237EEEPS0_RKNS_8oaStringEjjNS_8oaDomainEiiijPKvPKNS_14oaAppObjectDefE
+
+**ERROR: (ENCOAX-142):	OA features will be disabled in this session.
+
+
+*******************************************************************
+*   Copyright (c)  Cadence Design Systems, Inc.  1996 - 2013.     *
+*                     All rights reserved.                        *
+*                                                                 *
+*                                                                 *
+*                                                                 *
+* This program contains confidential and trade secret information *
+* of Cadence Design Systems, Inc. and is protected by copyright   *
+* law and international treaties.  Any reproduction, use,         *
+* distribution or disclosure of this program or any portion of it,*
+* or any attempt to obtain a human-readable version of this       *
+* program, without the express, prior written consent of          *
+* Cadence Design Systems, Inc., is strictly prohibited.           *
+*                                                                 *
+*                 Cadence Design Systems, Inc.                    *
+*                    2655 Seely Avenue                            *
+*                   San Jose, CA 95134,  USA                      *
+*                                                                 *
+*                                                                 *
+*******************************************************************
+
+@(#)CDS: Encounter v13.10-p003_1 (32bit) 04/17/2013 15:43 (Linux 2.6)
+@(#)CDS: NanoRoute v13.10-p002 NR130329-0035/13_10-UB (database version 2.30, 190.4.1) {superthreading v1.19}
+@(#)CDS: CeltIC v13.10-p007_1 (32bit) 04/10/2013 11:52:21 (Linux 2.6.18-194.el5)
+@(#)CDS: AAE 13.10-p003 (32bit) 04/17/2013 (Linux 2.6.18-194.el5)
+@(#)CDS: CTE 13.10-p009_1 (32bit) Apr 10 2013 05:45:06 (Linux 2.6.18-194.el5)
+@(#)CDS: CPE v13.10-p010
+@(#)CDS: IQRC/TQRC 12.1.0-s388 (32bit) Fri Mar 29 14:17:34 PDT 2013 (Linux 2.6.18-194.el5)
+--- Starting "Encounter v13.10-p003_1" on Thu Dec  5 14:59:32 2024 (mem=56.2M) ---
+--- Running on cadence (i686 w/Linux 2.6.32-431.3.1.el6.i686) ---
+This version was compiled on Wed Apr 17 15:43:05 PDT 2013.
+Set DBUPerIGU to 1000.
+Set net toggle Scale Factor to 1.00
+Set Shrink Factor to 1.00000
+
+**INFO:  MMMC transition support version v31-84 
+
+<CMD> set_global _enable_mmmc_by_default_flow      $CTE::mmmc_default
+<CMD> suppressMessage ENCEXT-2799
+<CMD> win
+*** Memory pool thread-safe mode activated.
+
+*** Memory Usage v#7 (Current mem = 242.438M, initial mem = 56.219M) ***
+--- Ending "Encounter" (totcpu=0:00:08.6, real=0:01:31, mem=242.4M) ---
