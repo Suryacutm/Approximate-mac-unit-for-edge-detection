@@ -1,4 +1,0 @@
-ncelab: 10.20-s100: (c) Copyright 1995-2011 Cadence Design Systems, Inc.
-ncelab: *F,CUATOP: Attempt to instance top level module 'hybrid_mac' in 'mac_test.uut'.
-ncelab: Memory Usage - 26.2M program + 14.6M data = 40.8M total
-ncelab: CPU Usage - 0.0s system + 0.0s user = 0.0s total (0.0s, 100.0% cpu)
